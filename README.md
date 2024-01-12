@@ -1,5 +1,5 @@
 # my-first-repo
-just a basic repository to play around with.<br>
+i like to play with git hub.<br>
 Name:Anil Kumar Meda<br>
 Address: 612N,Mulberry Street,Maryville-64468<br>
  from hyd
