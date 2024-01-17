@@ -2,4 +2,8 @@ a Apple
 b Baobab
 c cherry123
 d Dogwood
+<<<<<<< HEAD
 e Elm123
+=======
+e Elm123456
+>>>>>>> alternative
